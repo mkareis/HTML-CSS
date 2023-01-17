@@ -1,0 +1,42 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.faixa{
+    width: 100%;
+    padding: 16px 0;
+    background-color: orange;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+.largura{
+    width: 800px;
+  
+}
+.largura h2{
+    font-size: 28px;
+    padding: 15px 0;
+}
+.largura p{
+    font-size: 18px;
+    padding: 10px 0;
+}
+
+.parte1{
+    overflow-y: scroll ;
+    height: 250px;
+}
+
+.parte2{
+    overflow-x: scroll;
+    height: 250px;
+    display: flex;
+    
+}
+
+.parte2 img{
+    margin: 1.5px;
+}

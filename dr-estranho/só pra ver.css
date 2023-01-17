@@ -1,0 +1,87 @@
+
+*{
+    margin: 0;
+  }
+  div{
+    text-align: center;
+  }
+  
+  h1{
+    background-color: black;
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    margin: 60px auto 0 auto;
+  
+    
+  }
+  
+  h2{
+    background-color: red;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    margin: 0 auto 30px auto;
+  }
+  
+  h1, h2{
+    width: 250px; 
+    padding-top: 15px ;
+    padding-bottom: 15px;
+  }
+  
+  .secao-topo{
+    height: 700px;
+    background: url("capa.jpg") fixed top center;
+    padding-top: 10px;
+    margin: 0;
+  
+  }
+  
+  .secao-conteudo{
+    height: 610px;
+    font-size: 20px;
+    text-align: left;
+    width: 800px;
+    margin: auto;
+    line-height: 50px;
+    
+  }
+  
+  .secao-conteudo h3{
+    font-weight: bold; 
+    padding-top: 40px; 
+    
+  }
+  
+  .secao-conteudo img{
+    padding-top: 30px;
+    height: 250px;
+  }   
+  
+  .secao-divulgacao{
+    background: url("img1.jpg") fixed;
+    background-size: cover;
+    height: 300px;
+  }
+  .diferente{
+    height: 600px;
+    padding-bottom: 20px;
+  }
+  .diferente p{
+    font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 20px;
+    
+  }
+  .diferente h3{
+    padding-top: 100px;
+  }
+  
+  .diferente span{
+    color: white;
+    font-weight: bold;
+    background: red ;
+    padding: 15px;
+    
+  }

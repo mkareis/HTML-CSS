@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.topo{
+    width: 100%;
+    background-color: rgb(86, 41, 198);
+    padding: 20px 0;
+    font-size: 22px;
+    
+}
+
+.topo div{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.img-capa{
+    width: 100%;
+}
+
+.dv-topo{
+    display: flex;
+}
+.dv-topo p{
+    margin-right: 30px;
+    font-weight: 600;
+    color: white;
+}
+.dv-topo a{
+    margin: 0px 10px;
+    background-color: white;
+    color: rgb(86, 41, 198) ;
+    padding: 5px 35px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.definicao-largura{
+    margin: 30px auto;
+    min-width: 600px ;
+    max-width: 1200px;
+    text-align: center;
+    
+}
+.definicao-largura h1{
+    text-align: center;
+    padding: 20px;
+}
+
+.definicao-largura p{
+    line-height: 30px;
+    font-size: 18px;
+    margin: 15px;
+    text-align: left;
+}
+.area-imagens{
+   width: 1200px;
+   overflow-x: auto;
+   height: 340px;
+   display: flex;
+   box-sizing: border-box;
+}   
+
+.area-imagens img{
+    width: calc((100% - 14px) / 4);
+    height: 280px;
+    margin: 15px;
+    box-shadow: 5px 5px 15px;
+}
+
+.rodape{
+    width: 100%;
+    background-color: rgb(86, 41, 198);
+    padding: 20px 0;
+    font-size: 22px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+}
+
+.definicao-largura a{
+    text-decoration: none;
+}

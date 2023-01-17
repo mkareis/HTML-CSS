@@ -1,0 +1,76 @@
+*{
+    margin: 0 auto;
+}
+
+.geral{
+    width: 1100px;
+    background-image: url("img1.jpg");
+    height: 800px;
+}
+
+.topo{
+    text-align: center;
+    line-height: 40px;
+    background-color: dodgerblue;
+    color: #ffffff;
+    font-size: 22px;
+    
+}
+
+.parte1 h1{
+    width: 950px;
+    color: gainsboro;
+    padding-top: 20px;  
+    padding-bottom: 10px;  
+}
+.parte1 img{
+    width: 800px;
+    margin: auto;
+}
+
+.parte1 {
+    width: 800px;
+    
+}
+
+.text{
+    color: gainsboro;
+    font-size: 22px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.text span{
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.reserva{
+    margin-top: 15px;
+    padding: 30px;
+    width: 400px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 40px;
+    padding-top: 10px;
+    
+}
+
+.reserva p{
+    font-size: 18px;
+    color: gainsboro;
+
+}
+
+a{
+    border: 1px solid gainsboro;
+    padding: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: #ffffff;
+    color: black;
+    font-weight: bold;
+    
+}
+

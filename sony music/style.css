@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+
+    
+}
+
+.topo{
+    background-color: red;
+    padding: 15px 0;
+    text-align: center;
+
+}
+
+.topo a{
+    margin: 0 15px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.img-topo img{
+    box-sizing: border-box;
+    width: 100%;
+    border: 15px solid red;
+}
+.final{
+    box-sizing: border-box;
+    width: 900px;
+    margin: auto;
+    
+
+}
+.final img{
+    border: 15px solid red;
+    width: 100%;
+}
+
+.einterno{
+    padding: 0 15px;
+
+}
+p{
+    font-size: 18px;
+}
+
+.einterno a{
+    text-align: center;
+    background-color: red;
+    display: inline-block;
+    margin: 0 20px 10px 0;
+    padding: 15px 30px;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+
