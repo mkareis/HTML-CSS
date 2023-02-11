@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header, footer{
+    background-color: rgb(5, 163, 248);
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 15px 0;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+h1{
+    text-align: center;
+    margin: 25px 0;
+}
+
+div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+       
+}
+
+article{
+    padding: 30px;
+    text-align: center;
+    
+   
+}
+
+section{
+    margin: 20px 0;
+}
+
+article p{
+    line-height: 35px;
+}
+
+article p::first-letter{
+    font-style: italic;
+}
+
+article p::first-letter{
+    font-weight: 500;
+    font-size: 25px;
+}
